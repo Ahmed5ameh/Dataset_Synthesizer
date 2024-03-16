@@ -1,0 +1,71 @@
+{
+	"exported_object_classes": [
+		"SM_Sofa",
+		"SM_Armchair",
+		"SM_Coffe_Table_2",
+		"SM_Opened_Book",
+		"SM_Cup"
+	],
+	"exported_objects": [
+		{
+			"class": "SM_Sofa",
+			"segmentation_class_id": 201,
+			"segmentation_instance_id": 0,
+			"fixed_model_transform": [
+				[ 0, 0, 1, 0 ],
+				[ -1, 0, 0, 0 ],
+				[ 0, -1, 0, 0 ],
+				[ 33.449298858642578, 39.006999969482422, 2.7114999294281006, 1 ]
+			],
+			"cuboid_dimensions": [ 100.01390075683594, 77.713401794433594, 260.727294921875 ]
+		},
+		{
+			"class": "SM_Armchair",
+			"segmentation_class_id": 3,
+			"segmentation_instance_id": 0,
+			"fixed_model_transform": [
+				[ 0, 0, 1, 0 ],
+				[ -1, 0, 0, 0 ],
+				[ 0, -1, 0, 0 ],
+				[ -1.5450999736785889, 40.372600555419922, 0, 1 ]
+			],
+			"cuboid_dimensions": [ 87.979598999023438, 80.74530029296875, 75.5 ]
+		},
+		{
+			"class": "SM_Coffe_Table_2",
+			"segmentation_class_id": 69,
+			"segmentation_instance_id": 0,
+			"fixed_model_transform": [
+				[ 0, 0, 1, 0 ],
+				[ -1, 0, 0, 0 ],
+				[ 0, -1, 0, 0 ],
+				[ 0, 19.517000198364258, 0, 1 ]
+			],
+			"cuboid_dimensions": [ 57.609798431396484, 39.022701263427734, 57.613300323486328 ]
+		},
+		{
+			"class": "SM_Opened_Book",
+			"segmentation_class_id": 147,
+			"segmentation_instance_id": 0,
+			"fixed_model_transform": [
+				[ 0, 0, 1, 0 ],
+				[ -1, 0, 0, 0 ],
+				[ 0, -1, 0, 0 ],
+				[ 9.9999997473787516e-05, 2.6823000907897949, 0.003599999938160181, 1 ]
+			],
+			"cuboid_dimensions": [ 23.939599990844727, 5.176300048828125, 38.818599700927734 ]
+		},
+		{
+			"class": "SM_Cup",
+			"segmentation_class_id": 75,
+			"segmentation_instance_id": 0,
+			"fixed_model_transform": [
+				[ 0, 0, 1, 0 ],
+				[ -1, 0, 0, 0 ],
+				[ 0, -1, 0, 0 ],
+				[ 0, 3.1022000312805176, 0, 1 ]
+			],
+			"cuboid_dimensions": [ 15.689299583435059, 6.1732997894287109, 15.689299583435059 ]
+		}
+	]
+}
